@@ -32,5 +32,24 @@ ol {
 }
 
 li {
-	
+
+}
+
+/*-------------------------------
+* Header
+---------------------------------*/
+.hero {
+	background-color: #eeeeee;
+	padding: 20px 0;
+	color: #333333;
+	text-align: center;
+}
+
+/*-------------------------------
+* Logo
+---------------------------------*/
+.logo {
+	font-size: 38px;
+	font-weight: bold;
+	text-transform: uppercase;
 }
